@@ -12,7 +12,7 @@ list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
 list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/austinlasseter/dash-callbacks-radio'
-image_you_chose = 'outlier.png'
+
 
 ########## Set up the chart
 
