@@ -7,7 +7,7 @@ from dash.dependencies import Input, Output, State
 ########### Define your variables ######
 
 myheading1='How to use callbacks'
-tabtitle = 'xckd'
+tabtitle = 'xkcd'
 list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
 list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
 sourceurl = 'https://xkcd.com/'
