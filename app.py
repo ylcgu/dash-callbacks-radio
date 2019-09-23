@@ -6,11 +6,11 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks'
-tabtitle = 'xkcd'
-list_of_options=['box plot', 'correlation', 'git commit', 'scatterplot']
-list_of_images=['outlier.png', 'correlation.png', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
-sourceurl = 'https://xkcd.com/'
+myheading1='How many noodles are serving tonight'
+tabtitle = 'Noodles'
+list_of_options=['Spicy Cold Rice Noodle', 'Hot Eggs Noodle Soup', 'Fried Noodles with Sausage and Vegetables', 'Tomatoes Eggs Noodle soup']
+list_of_images=['Spicy_Cold_Rice_Noodle.jpg', 'Hot_eggs_noodle_soup.jpg', '.jpg', 'Fried_noodles_with_Sausage_and_Vegetables.jpg', 'Tomatoes_Eggs_Noodle_soup.jpg']
+sourceurl = 'https://www.xiachufang.com/category/1025/'
 githublink = 'https://github.com/austinlasseter/dash-callbacks-radio'
 
 
