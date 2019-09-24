@@ -9,7 +9,7 @@ from dash.dependencies import Input, Output, State
 myheading1='How many noodles are serving tonight'
 tabtitle = 'Noodles'
 list_of_options=['Spicy Cold Rice Noodle', 'Spicy Pork Noodle Soup', 'Fried noodles_with_Sausage and Vegetables', 'Tomatoes Eggs Noodle Soup']
-list_of_images=['Spicy_Cold_Rice_Noodle.jpg', 'Spicy_pork_noodle_soup.jpg', 'Fried_noodles_with_Sausage_and_Vegetables.jpg', 'Tomatoes_Eggs_Noodle_soup.jpg']
+list_of_images=['1.jpg', '2.jpg', '3.jpg', '4.jpg']
 sourceurl = 'https://www.xiachufang.com/'
 githublink = 'https://github.com/ylcgu/dash-callbacks-radio'
 
