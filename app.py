@@ -34,7 +34,7 @@ app.layout = html.Div(children=[
                 {'label':list_of_options[2], 'value':list_of_images[2]},
                 {'label':list_of_options[3], 'value':list_of_images[3]},
                 ],
-        value=list_of_images[4],
+        value=list_of_images[3],
         ),
     html.Div(id='your_output_here', children=''),
     html.Br(),
